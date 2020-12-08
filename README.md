@@ -1,6 +1,6 @@
 # Arp_Project
 
-This didactic project consist of an architecture implemented with ROS aimed to develop a mobile robot capable of being controlled by the user or to navigate autonompusly in the simulated scenario.
+This didactic project consists of an architecture implemented with ROS aimed to develop a mobile robot capable of being controlled by the user or to navigate autonompusly in the simulated scenario.
 
 ## Installation and prerequisites
 
@@ -18,7 +18,7 @@ $ bash launch.sh
 
 Once the code has been executed 3 modalities can be chosen:
 
- 1. from RViz select the option 2D Nav in the toolbar and select a point where the robot will reach. It is possible to interact through RViz by selecting other points once the one chosen has been reached or at any time during the achievement of the position;
+ 1. from RViz select the option 2D Nav in the toolbar and select a point that the robot will reach. It is possible to interact through RViz by selecting other points once the one chosen has been reached or at any time during the achievement of the position;
 
  2. the robot will autonomously navigate in the scenario;
 
